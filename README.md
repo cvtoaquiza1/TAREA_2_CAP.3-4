@@ -240,7 +240,9 @@ SECCIÓN 4–4 Conversión de energía y caída de voltaje en una resistencia
 
 4. VIDEO
 
+En esta parte dejo el link donde explico 5 ejercios referente a los temas tratados en este informe :
 
+https://youtu.be/Bep9y68dioM
 
 5. CONCLUSIONES 
 
